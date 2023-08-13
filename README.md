@@ -12,6 +12,9 @@
   <img align="center" alt="HTML5-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="JavaScript-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="CSS-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <div style="display: flex; justify-content: center;">
+  <img align="right" height="180em" src="https://cdn.discordapp.com/attachments/722876275173359663/1140373187788541992/pixel_cat.gif">
+  </div>
 </div>
 
 ##
@@ -19,9 +22,3 @@
   <a href="www.linkedin.com/in/gabrieldiegues" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<footer>
-  <center>
-    
-  ![pixel_cat](https://github.com/gabrieldfr/gabrieldfr/assets/127216244/f67871ca-74b3-4ff9-8100-8bba88cd5cca)
-  </center>
-</footer>
