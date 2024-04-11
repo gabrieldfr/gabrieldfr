@@ -1,5 +1,5 @@
 # Hello!! I'm Gabriel 👋
-- 🎓 Software Engineering student at FIAP
+- C++ Programmer
 
 ##
 <div>
