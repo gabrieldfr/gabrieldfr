@@ -1,5 +1,5 @@
 # Hello!! I'm Gabriel 👋
-- C++ Programmer
+- Programmer
 
 ##
 <div>
